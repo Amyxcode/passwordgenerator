@@ -48,11 +48,20 @@ li{
 }
 
 .li-green{background-color:#E5FDEA }
+
 .li-yellow{background-color:#FCFDD6}
 .li-blue{background-color:#E5F9FE}
 .li-pink{background-color:#FCF1FE}
 
 /* layout */
+
+.dropbtn{
+   background-color:#FCFDD6;
+    color:#white;
+    
+}
+.li-green a :hover{
+}
 
 
 img{
