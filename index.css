@@ -47,7 +47,7 @@ li{
     width:100%;
 }
 
-.li-green{background-color:#E5FDEA}
+.li-green{background-color:#E5FDEA ;width:100%;}
 .li-yellow{background-color:#FCFDD6}
 .li-blue{background-color:#E5F9FE}
 .li-pink{background-color:#FCF1FE}
